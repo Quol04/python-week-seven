@@ -10,6 +10,7 @@ Explore the structure of the dataset by checking the data types and any missing 
 Clean the dataset by either filling or dropping any missing values.
 
 ---
+
 ## Task 2: Basic Data Analysis
 
 Compute the basic statistics of the numerical columns (e.g., mean, median, standard deviation) using .describe().
