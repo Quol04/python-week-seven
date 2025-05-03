@@ -1,13 +1,13 @@
 ## Task 1: Load and Explore the Dataset
 *Choose a dataset in CSV format (for example, you can use datasets like the Iris dataset, a sales dataset, or any dataset of your choice)*.
 
-Load the dataset using pandas
+a. Load the dataset using pandas
 
-Display the first few rows of the dataset using .head() to inspect the data.
+b. Display the first few rows of the dataset using .head() to inspect the data.
 
-Explore the structure of the dataset by checking the data types and any missing values.
+c. Explore the structure of the dataset by checking the data types and any missing values.
 
-Clean the dataset by either filling or dropping any missing values.
+d. Clean the dataset by either filling or dropping any missing values.
 
 ---
 
